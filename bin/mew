@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import mew.core.linter as linter
+linter.lint_package()
