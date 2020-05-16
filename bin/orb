@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import orb.core.linter as linter
+linter.lint_package()
