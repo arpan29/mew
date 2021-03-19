@@ -17,7 +17,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        'Django==2.2.10',
+        'Django==2.2.18',
         'djangorestframework==3.10.3',
         'django-filter==2.2.0',
         'requests==2.22.0',
