@@ -18,7 +18,7 @@ setuptools.setup(
     ],
     install_requires=[
         'Django>=2.2.10',
-        'djangorestframework==3.10.3',
+        'djangorestframework==3.11.2',
         'django-filter==2.2.0',
         'requests==2.22.0',
         'django-cors-headers==3.1.1',
